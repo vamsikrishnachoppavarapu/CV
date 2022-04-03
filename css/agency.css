@@ -439,7 +439,7 @@ header.masthead .intro-text .intro-heading {
 
 .timeline > li .timeline-image {
   position: absolute;
-  z-index: 100;
+  z-index: 10;
   left: 0;
   width: 80px;
   height: 80px;
